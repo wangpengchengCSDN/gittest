@@ -6,5 +6,7 @@ public class Test01 {
         System.out.println("master首次提交 01");
 
         System.out.println("第一次切换回 master分支");
+
+        System.out.println("第二次提交主分支 ");
     }
 }
