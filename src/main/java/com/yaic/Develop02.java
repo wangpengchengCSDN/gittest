@@ -6,5 +6,7 @@ public class Develop02 {
         for (int i=0;i<20;i++){
             System.out.println("congnan dao bei");
         }
+
+        System.out.println("master AAA");
     }
 }
