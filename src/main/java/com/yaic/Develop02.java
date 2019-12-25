@@ -8,5 +8,7 @@ public class Develop02 {
         }
 
         System.out.println("master AAA");
+
+        System.out.println("develop BBB");
     }
 }
