@@ -15,5 +15,9 @@ public class Develop02 {
 
         System.out.println("develop 打印 CCC");
 
+        for (int i=0;i<21;i++){
+            System.out.println("mm");
+
+
     }
 }
