@@ -12,5 +12,8 @@ public class Develop02 {
         System.out.println("develop BBB");
 
         System.out.println("master 分支提交 CCC");
+
+        System.out.println("develop 打印 CCC");
+
     }
 }
