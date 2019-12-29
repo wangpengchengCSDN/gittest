@@ -18,5 +18,8 @@ public class Develop02 {
         for (int i=0;i<21;i++){
             System.out.println("mm");
         }
+
+
+        System.out.println(111111);
     }
 }
